@@ -13,5 +13,3 @@ def problemTen():
     return 
 
 problemTen()
-            
-
